@@ -12,6 +12,7 @@
             <ColumnDefinition Width="167*"/>
         </Grid.ColumnDefinitions>
         <Button Content="Button" HorizontalAlignment="Center" Margin="0,123,0,0" VerticalAlignment="Top" Height="46" Width="74" Background="#FFFF8787"/>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,262,0,0" VerticalAlignment="Top" Height="46" Width="74" Background="#FFFF8787"/>
 
     </Grid>
 </Window>
