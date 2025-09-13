@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421\u002B\u002B\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D4D8C-4E21-45F4-911F-CC8627F8973C}|lab1\\lab1.vcxproj|D:\\\u0421\u002B\u002B\\lab1\\lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D25D4D8C-4E21-45F4-911F-CC8627F8973C}|lab1\\lab1.vcxproj|solutionrelative:lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D4D8C-4E21-45F4-911F-CC8627F8973C}|lab1\\lab1.vcxproj|D:\\\u0421\u002B\u002B\\lab1\\lab1\\RTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D25D4D8C-4E21-45F4-911F-CC8627F8973C}|lab1\\lab1.vcxproj|solutionrelative:lab1\\RTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D4D8C-4E21-45F4-911F-CC8627F8973C}|lab1\\lab1.vcxproj|D:\\\u0421\u002B\u002B\\lab1\\lab1\\RTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D25D4D8C-4E21-45F4-911F-CC8627F8973C}|lab1\\lab1.vcxproj|solutionrelative:lab1\\RTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RTriangle.cpp",
+              "DocumentMoniker": "D:\\\u0421\u002B\u002B\\lab1\\lab1\\RTriangle.cpp",
+              "RelativeDocumentMoniker": "lab1\\RTriangle.cpp",
+              "ToolTip": "D:\\\u0421\u002B\u002B\\lab1\\lab1\\RTriangle.cpp",
+              "RelativeToolTip": "lab1\\RTriangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T11:05:56.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RTriangle.h",
+              "DocumentMoniker": "D:\\\u0421\u002B\u002B\\lab1\\lab1\\RTriangle.h",
+              "RelativeDocumentMoniker": "lab1\\RTriangle.h",
+              "ToolTip": "D:\\\u0421\u002B\u002B\\lab1\\lab1\\RTriangle.h",
+              "RelativeToolTip": "lab1\\RTriangle.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-03T09:02:17.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab1.cpp",
+              "DocumentMoniker": "D:\\\u0421\u002B\u002B\\lab1\\lab1\\lab1.cpp",
+              "RelativeDocumentMoniker": "lab1\\lab1.cpp",
+              "ToolTip": "D:\\\u0421\u002B\u002B\\lab1\\lab1\\lab1.cpp",
+              "RelativeToolTip": "lab1\\lab1.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwGsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T08:56:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
