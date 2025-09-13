@@ -1,0 +1,16 @@
+# Временные файлы Visual Studio и C++
+*.obj
+*.exe
+*.log
+
+# Временные папки Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
